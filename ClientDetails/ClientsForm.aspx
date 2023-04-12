@@ -7,7 +7,7 @@
             <section class="panel">
                 <header class="panel-heading">
                     <div class="col-md-4 col-md-offset-4">
-                        <h1>Client Forms</h1>
+                        <h1>Client Form</h1>
                     </div>
                 </header>
                 <div class="panel-body">
