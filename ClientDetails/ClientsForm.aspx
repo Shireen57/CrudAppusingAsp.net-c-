@@ -40,7 +40,7 @@
                         </div>
                         <div class="col-md-4 col-md-offset-1">
                           <div class="form-group">
-                             <asp:Label Text="Address" runat="server"/>
+                             <asp:Label Text="Client Address" runat="server"/>
                               <asp:TextBox runat="server" Enabled="true" CssClass="form-control input-sm" placeholder="Enter Your Address" ID="ClientAdd" Width="302px"/>
                           </div>
                         </div>
